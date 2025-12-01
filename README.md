@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Janny Tran 👋
+Master of Computer Science | Software Engineering | Cloud & AI Enthusiast
 
-<!--
-**id-nynt/id-nynt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects
+### 🔹 Software / Web Development
+- Full-Stack Portfolio — React + AWS
+- (Uni) E-Gov Microservices — ASP.NET + Docker
+- (Uni) Software Testing & Analysis - pytest
 
-Here are some ideas to get you started:
+### 🔹 Data & Machine Learning
+- (Uni) Shakespeare Chatbot — SLM + RAG (Python, FAISS, LoRA)
+- (Uni) Big Data ImageNet Analysis — XGBoost
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Networking & Systems
+- (Uni) Healthcare Network Design
+- (Uni) Software Testing & Analysis
+
+### 🔹 Cloud and Networking Systems
+- (Uni) Healthcare Network Design
+- AWS Serverless Data Lake
+
+## 📁 All Repositories
+👉 See the pinned repos below or visit github.com/id-nynt?tab=repositories
+
+## 🔧 Tech Stack
+- Languages: Python, JavaScript, C#.
+- Frameworks: React.
+- Databases: MySQL.
+- Cloud & DevOps: AWS (EC2, S3, IAM), Docker, CI/CD basics.
+- Tools: Git, GitHub, VS Code, Jupyter Notebook.
+
+## 📫 Contact
+Email: id.tnyennhi@gmail.com | LinkedIn: www.linkedin.com/in/janny-tran-a31621192 | Portfolio: 
