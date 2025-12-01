@@ -41,7 +41,7 @@ Master of Computer Science | Software Engineering | Cloud & AI Enthusiast
   - [GitHub Link](https://github.com/id-nynt/Healthcare-Network-System/)
 
 ## 📁 All Repositories
-👉 And there are more! Visit [All Repos](https://github.com/id-nynt?tab=repositories/) to see my journey!
+👉 And there are more! Visit [All Repos](https://github.com/id-nynt?tab=repositories) to see my journey!
 
 ## 🔧 Tech Stack
 - Languages: Python, JavaScript, C#.
