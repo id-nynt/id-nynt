@@ -4,23 +4,44 @@ Master of Computer Science | Software Engineering | Cloud & AI Enthusiast
 ## 🚀 Featured Projects
 ### 🔹 Software / Web Development
 - Full-Stack Portfolio — React + AWS
-- (Uni) E-Gov Microservices — ASP.NET + Docker
-- (Uni) Software Testing & Analysis - pytest
+  - Tech Stack: React + ASP.NET + Docker
+  - Progress: Ongoing
+  - GitHub Link: Will be updated when completed
+- (Uni) E-Gov Microservices
+  - Tech Stack: ASP.NET + Docker
+  - Progress: Completed
+  - [GitHub Link](https://github.com/id-nynt/250019_Microservice-E-gov-Platform)
+- (Uni) Software Testing & Analysis
+  - Tech Stack: pytest
+  - Progress: Completed
+  - [GitHub Link](https://github.com/id-nynt/250019_matplotlib-test)
 
 ### 🔹 Data & Machine Learning
-- (Uni) Shakespeare Chatbot — SLM + RAG (Python, FAISS, LoRA)
+- (Uni) Shakespeare Chatbot — SLM + RAG
+  - Tech Stack: Python, FAISS, LoRA
+  - Progress: Completed
+  - [GitHub Link](https://github.com/id-nynt/250021_shakespeare-chatbot)
 - (Uni) Big Data ImageNet Analysis — XGBoost
-
-### 🔹 Networking & Systems
-- (Uni) Healthcare Network Design
-- (Uni) Software Testing & Analysis
+  - Tech Stack: Python, XGBoost
+  - Progress: Completed
+  - [GitHub Link](https://github.com/id-nynt/250022_imagenet_analysis)
 
 ### 🔹 Cloud and Networking Systems
+- AWS 101 Workshop
+  - Tech Stack: AWS
+  - Progress: Completed
+  - [GitHub Link](https://github.com/id-nynt/250015_aws-101-workshop)
+- AWS Serverless Data Lake Workshop
+  - Tech Stack: AWS
+  - Progress: Completed
+  - [GitHub Link](https://github.com/id-nynt/250016_aws-serverless-lake-day)
 - (Uni) Healthcare Network Design
-- AWS Serverless Data Lake
+  - Tech Stack: Cisco
+  - Progress: Completed
+  - [GitHub Link](https://github.com/id-nynt/Healthcare-Network-System/)
 
 ## 📁 All Repositories
-👉 See the pinned repos below or visit github.com/id-nynt?tab=repositories
+👉 And there are more! Visit [All Repos](https://github.com/id-nynt?tab=repositories/) to see my journey!
 
 ## 🔧 Tech Stack
 - Languages: Python, JavaScript, C#.
