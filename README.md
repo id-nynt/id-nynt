@@ -5,7 +5,8 @@ Master of Computer Science | Software Engineering | Cloud & AI Enthusiast
 ### 🔹 Software / Web Development
 - Portfolio Website
   - Tech Stack: React + ASP.NET + Docker
-  - Progress: Ongoing
+  - Progress: Completed Phase 1 - Ongoing
+  - [Porfolio Link](https://250020-profile-web.vercel.app/)
   - [GitHub Link](https://github.com/id-nynt/250020_Profile-Web)
 - (Uni) E-Gov Microservices
   - Tech Stack: ASP.NET + Docker
