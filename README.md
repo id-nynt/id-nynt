@@ -52,4 +52,5 @@ Master of Computer Science | Software Engineering | Cloud & AI Enthusiast
 - Tools: Git, GitHub, VS Code, Jupyter Notebook.
 
 ## 📫 Contact
-Email: id.tnyennhi@gmail.com | LinkedIn: www.linkedin.com/in/janny-tran-a31621192 | Portfolio: 250020-profile-web.vercel.app/
+Email: id.tnyennhi@gmail.com | LinkedIn: www.linkedin.com/in/janny-tran-a31621192 | 
+Portfolio: https://250020-profile-web.vercel.app/
