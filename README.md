@@ -3,10 +3,10 @@ Master of Computer Science | Software Engineering | Cloud & AI Enthusiast
 
 ## 🚀 Featured Projects
 ### 🔹 Software / Web Development
-- Full-Stack Portfolio — React + AWS
+- Portfolio Website
   - Tech Stack: React + ASP.NET + Docker
   - Progress: Ongoing
-  - GitHub Link: Will be updated when completed
+  - [GitHub Link](https://github.com/id-nynt/250020_Profile-Web)
 - (Uni) E-Gov Microservices
   - Tech Stack: ASP.NET + Docker
   - Progress: Completed
