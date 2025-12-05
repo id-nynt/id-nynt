@@ -21,7 +21,6 @@ Master of Computer Science | Software Engineering | Cloud & AI Enthusiast
 - (Uni) Shakespeare Chatbot — SLM + RAG
   - Tech Stack: Python, LoRA, FAISS, Streamlit
   - Progress: Completed
-  - [Shakespeare Chatbot Link](https://250021shakespeare-chatbot.streamlit.app/)
   - [GitHub Link](https://github.com/id-nynt/250021_shakespeare-chatbot)
 - (Uni) Big Data ImageNet Analysis — XGBoost
   - Tech Stack: Python, XGBoost
