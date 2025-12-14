@@ -6,7 +6,7 @@ Master of Computer Science | Software Engineering | Cloud & AI Enthusiast
 - Portfolio Website
   - Tech Stack: React + ASP.NET + Docker
   - Progress: Completed Phase 1 (Frontend) - Ongoing
-  - [Porfolio Link](https://250020-profile-web.vercel.app/)
+  - [Porfolio Link](https://janny-portfolio.vercel.app/)
   - [GitHub Link](https://github.com/id-nynt/250020_Profile-Web)
 - (Uni) E-Gov Microservices
   - Tech Stack: ASP.NET + Docker
