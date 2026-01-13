@@ -1,7 +1,7 @@
 # Hi, I'm Janny Tran 👋
 Junior Software Engineering | Cloud & AI Enthusiast
 
-## 🚀 Featured Projects
+## Featured Projects
 ### 🔹 Software / Web Development
 - Portfolio Website
   - Tech Stack: React + ASP.NET + Docker
@@ -17,7 +17,7 @@ Junior Software Engineering | Cloud & AI Enthusiast
   - Progress: Completed
   - [GitHub Link](https://github.com/id-nynt/250019_matplotlib-test)
 
-### 🔹 Data & Machine Learning
+### 🔹 Big Data Analysis & Machine Learning
 - (Uni) Shakespeare Chatbot — SLM + RAG
   - Tech Stack: Python, LoRA, FAISS, Streamlit
   - Progress: Completed
@@ -46,9 +46,10 @@ Junior Software Engineering | Cloud & AI Enthusiast
 
 ## 🔧 Tech Stack
 - Languages: Python, JavaScript, C#.
-- Frameworks: React.
-- Databases: MySQL.
-- Cloud & DevOps: AWS (EC2, S3, IAM), Docker, CI/CD basics.
+- Frontend: React, TailwindCSS, HTML, CSS.
+- Backend: C#, ASP.NET.
+- Databases: SQL.
+- Cloud & DevOps: AWS, Docker, CI/CD basics.
 - Tools: Git, GitHub, VS Code, Jupyter Notebook.
 
 ## 📫 Contact
