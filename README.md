@@ -1,5 +1,5 @@
 # Hi, I'm Janny Tran 👋
-Master of Computer Science | Software Engineering | Cloud & AI Enthusiast
+Junior Software Engineering | Cloud & AI Enthusiast
 
 ## 🚀 Featured Projects
 ### 🔹 Software / Web Development
