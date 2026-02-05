@@ -1,5 +1,5 @@
 # Hi, I'm Janny Tran 👋
-Junior Software Engineering | Cloud & AI Enthusiast
+Software Engineer | Cloud & AI Enthusiast
 
 ## Featured Projects
 ### 🔹 Software / Web Development
