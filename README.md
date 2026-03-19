@@ -17,7 +17,7 @@ Software Engineer | Cloud & AI Enthusiast
   - Progress: Completed
   - [GitHub Link](https://github.com/id-nynt/250019_matplotlib-test)
 
-### 🔹 Big Data Analysis & Machine Learning
+### 🔹 Machine Learning - AI - Big Data Analysis
 - (Uni) Shakespeare Chatbot — SLM + RAG
   - Tech Stack: Python, LoRA, FAISS, Streamlit
   - Progress: Completed
@@ -26,6 +26,10 @@ Software Engineer | Cloud & AI Enthusiast
   - Tech Stack: Python, XGBoost
   - Progress: Completed
   - [GitHub Link](https://github.com/id-nynt/250022_imagenet_analysis)
+- (Uni) Human vs Non-Human Twitter Account Classification
+  - Tech Stack: Python
+  - Progress: Completed
+  - [GitHub Link](https://github.com/id-nynt/250027_twitter_classification)
 
 ### 🔹 Cloud and Networking Systems
 - AWS 101 Workshop
